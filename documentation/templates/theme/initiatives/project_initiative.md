@@ -37,6 +37,8 @@
 
 **Team:** Course designer, multimedia specialist.
 
+1. **Course Designer**: Researches and designs course to fit the web-class needs.
+2. **Multimedia specialist**: Adds multimedia to the web-class.
 **Epic:**
 Design and develop an online curriculum covering essential calorie tracking concepts.
 
@@ -79,6 +81,9 @@ Design and develop an online curriculum covering essential calorie tracking conc
 **Dependencies:** None identified.
 
 **Team:** Course designer, web developer.
+
+1. **Course Designer**: Researches and designs course to fit the web-class needs.
+2. **Web Developer**: Develops the web-class with frontend and backend engineering. 
 
 **Epic:**
 Create a personalized dashboard for learners to track their progress.
