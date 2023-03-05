@@ -32,7 +32,7 @@ By creating a comprehensive online curriculum, we can provide an effective learn
 
 ---
 
-# Epic 2: Create a personalized dashboard for learners to track their progress.
+# Epic 2: Create Personalized Dashboard for User. 
 
 **Description:** 
 
