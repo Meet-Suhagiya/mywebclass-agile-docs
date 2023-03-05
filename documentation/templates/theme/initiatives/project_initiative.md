@@ -83,4 +83,4 @@ Design and develop an online curriculum covering essential calorie tracking conc
 **Epic:**
 Create a personalized dashboard for learners to track their progress.
 
-[Epics](documentation/templates/theme/initiatives/epics/epic_template.md)
+[Click here to open Epics](documentation/templates/theme/initiatives/epics/epic_template.md)

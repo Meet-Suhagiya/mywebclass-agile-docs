@@ -67,4 +67,4 @@ By creating a personalized dashboard, we can provide learners with a sense of ac
 **Priority:** High
 
 
-[Stories](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+[Click here to open Stories](documentation/templates/theme/initiatives/epics/stories/story_template.md)

@@ -37,4 +37,4 @@
 2. The dashboard should have motivational messages and graphics to keep me engaged and motivated.
 3. The dashboard should be easy to navigate and use.
 
-[Tasks](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+[Click here to open Tasks](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

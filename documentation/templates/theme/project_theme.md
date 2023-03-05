@@ -15,4 +15,4 @@
 
 **Long-Term Benefits:** By completing the web class, learners will be able to accurately and effectively track their calorie intake, which can support their health and fitness goals. In the long term, this can help individuals achieve and maintain a healthy weight, improve their overall health outcomes, and develop positive habits around food and nutrition. Additionally, the web class can foster a community of individuals who are passionate about health and fitness and can support each other in their journey toward a healthier lifestyle.
 
-[Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+[Click here to open Initiatives](documentation/templates/theme/initiatives/initiative_template.md)
